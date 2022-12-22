@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MQasim1218
-- 👀 I’m interested in designing sophisticated Algorithms, Systems programming and Artificial intelligence
-- 🌱 I’m currently learning Rust Programming language and Deep learning
+- 👀 I’m interested in designing efficient Algorithms, Systems programming and Artificial intelligence
+- 🌱 I’m currently learning Rust, Golang and Deep learning
 - 💞️ I’m looking to collaborate on anything I've mentioned above that I'm interested in
 - 📫 Contact me at: MQas2022@gmail.com
